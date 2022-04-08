@@ -1,4 +1,4 @@
-# stripe-fee-calculator
+# stripe-fee-percentage-calculator
 
 Stripe fee percentage calculator.
 
